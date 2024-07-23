@@ -1,0 +1,23 @@
+1	Nguyễn Hồ Thanh Bền	0
+2	Nguyễn Thanh Dân	0
+3	Trần Tuấn Duy	0
+4	Lê Thu Hà	1
+5	Nguyễn Huy Hảo	0
+6	Trần Chí Hạo	0
+7	Lê Trần Trung Hiếu	0
+8	Nguyễn Đồng Hưng	1
+9	Nguyễn Mạnh Khang	0
+10	Nguyễn Hà Kiên	1
+11	Võ Thành Lên	1
+12	Khổng Thị Gia Linh	0
+13	Nguyễn Phương Nam	0
+14	Phạm Đức Nghĩa	0
+15	Lê Minh Nhựt	1
+16	Nguyễn Trọng Phúc	0
+17	Nguyễn Đức Tấn	0
+18	Bùi Quốc Thịnh	1
+19	Lê Văn Tính	1
+20	Nguyễn Võ Song Toàn	0
+21	Trương Anh Tuấn	0
+22	Hồ Vĩnh Tường	1
+23	Trần Phúc Vinh	1
