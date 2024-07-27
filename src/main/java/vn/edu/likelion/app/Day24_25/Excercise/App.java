@@ -327,12 +327,11 @@ public class App {
         // Show all students - Done
 //        showAllStudents();
 
-
         // Show absent students - Done
 //        showAbsentStudent();
 
         // Show present students - Done
-        showPresentStudent();
+//        showPresentStudent();
 
     }
 
